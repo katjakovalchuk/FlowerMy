@@ -1,10 +1,5 @@
 package flower.store;
 
-import lombok.Getter;
-import lombok.Setter;
-
-@Getter
-@Setter
 public class Rose extends Flower {
     private double sepalLength;
     private double price;
